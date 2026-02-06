@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: ENTRY
+Implementation-Title: GUI App Test 1
+Implementation-Version: 1.0
+Implementation-Vendor: Malem Diwa
