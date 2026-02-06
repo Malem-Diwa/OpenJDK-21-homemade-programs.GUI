@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Main-Class: Entry_Point
+Implementation-Title: Debug output (GUI)
+Implementation-Version: 1.0
+Implementation-Vendor: Malem Diwa
+Build-Date: (28/01/2026:23:14)
